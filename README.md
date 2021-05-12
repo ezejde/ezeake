@@ -6,4 +6,4 @@ i like to dabble around and expirement with a lot of different languages and api
 
 if you want to talk to me, feel free to shoot me a message at ezekiel@deblois.me
 
-# this repository is for the code of the website/portfolio i am currently working on, and any other projects i decide to host on there.
+### this repository is for the code of the website/portfolio i am currently working on, and any other projects i decide to host on there.
