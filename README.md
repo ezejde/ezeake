@@ -22,10 +22,6 @@ anyways
 
 -> r-e-a-l.it
 
+-> r-e-a-l.store
+
 -> more coming soon...
-
-
-
-
-
-💻
