@@ -18,10 +18,23 @@ anyways
 
 
 
-### also i made these things:
+### previous projects and experience:
 
--> r-e-a-l.it
+-> fullstack dev for R-E-A-L.iT
+  - r-e-a-l.it main website
+  - r-e-a-l.store ecommerce site
 
--> r-e-a-l.store
+-> plugin development for Minecraft
+  - more info soon
 
 -> more coming soon...
+
+
+### languages i know
+
+java, python, swift
+html, css, js | xml, scss, jquery
+
+### things i can do
+
+machine learning, penetration testing, database design, game development, artifical intelligence, arduino projects
