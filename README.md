@@ -6,18 +6,6 @@ i like to dabble around and expirement with a lot of different languages and api
 
 if you want to talk to me, feel free to shoot me a message at ezekiel@deblois.me 👋🏽
 
-
-
-also if you want me to build any apps for you, i need you to supply as much tea as you can
-
-grilled cheese & tomato soup would also be nice
-
-
-
-anyways 
-
-
-
 ### previous projects and experience:
 
 -> fullstack dev for R-E-A-L.iT
