@@ -12,11 +12,7 @@ if you want to talk to me, feel free to shoot me a message at ezekiel@deblois.me
   - r-e-a-l.it main website
   - r-e-a-l.store ecommerce site
 
--> plugin development for Minecraft
-  - more info soon
-
 -> more coming soon...
-
 
 ### languages i know
 
