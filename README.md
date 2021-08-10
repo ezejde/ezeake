@@ -17,6 +17,7 @@ if you want to talk to me, feel free to shoot me a message at ezekiel@deblois.me
 ### languages i know
 
 java, python, swift
+
 html, css, js | xml, scss, jquery
 
 ### things i can do
